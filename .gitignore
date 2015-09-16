@@ -1,0 +1,17 @@
+_site
+
+*.aux
+*.dvi
+*.fdb_latexmk
+*.fls
+*.idx
+*.ilg
+*.ind
+*.log
+*.out
+*.synctex.gz
+*.synctex.gz(busy)
+*.thm
+*.toc
+
+misc/badges.pdf

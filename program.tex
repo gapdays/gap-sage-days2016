@@ -1,0 +1,146 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[left=2cm,right=2cm,top=3cm,bottom=3cm]{geometry}
+\pagestyle{empty}
+
+\usepackage[utf8]{inputenc}
+
+%
+% custom font
+%
+\usepackage[full]{textcomp} % to get the right copyright, etc.
+\usepackage{fbb} % osf for text, lining for math
+\usepackage[scaled=.95]{cabin}
+\usepackage[varqu,varl]{inconsolata}% typewriter
+\usepackage[libertine,bigdelims,vvarbb]{newtxmath}
+\usepackage[cal=boondoxo]{mathalfa}% less slanted than STIX
+\usepackage[T1]{fontenc}
+\useosf
+
+
+\usepackage{datetime}
+\usdate
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage{enumitem}
+
+\usepackage{xcolor}
+\usepackage[colorlinks=true]{hyperref}
+
+
+\newcommand{\TODO}[1]{\textcolor{red}{*** #1 ***}}
+
+\begin{document}
+
+\begin{center}
+{\huge\textbf{Program of the third GAP Days, September 14-18, 2015}\\[2mm]}
+Version from \today\ at \currenttime\\[2mm]
+Talks and coding sprint are at
+\href{http://www.ntnu.edu/imf)}{Department of Mathematical Sciences,
+  NTNU} in room \href{http://s.mazemap.com/1RvAr1E}{G144}.
+\end{center}
+
+% \talk{TIME}{AUTHOR}{TITLE}
+\newcommand{\talk}[3]{#1 & #2 \\ & \textit{#3} \\}
+%\newcommand{\talk}[3]{#1 & #2: ``\textit{#3}'' \\}
+
+\newcommand{\newday}[1]{\multicolumn{2}{c}{{\large\textbf{#1}}} \\[1em]}
+
+
+\begin{tabular}{rp{14.5cm}}
+%
+\newday{Monday, September 14}
+09:00 & Welcoming session \\
+09:15 & Introduction to GAP 1 (Horn)\\
+10:30 & Introduction to QPA 1 (Skarts\ae terhagen/Solberg)\\
+11:45 & Introduction to homalg/CAP 1 (Barakat/Gutsche/Posur)\\
+13:00 & Lunch \\
+15:00 & Introduction to GAP 2 (Horn)\\
+16:30 & Exercise and discussion session
+
+%
+%
+\\
+%
+%
+\newday{Tuesday, September 15}
+09:15 & Introduction to GAP 3 (Horn)\\
+10:30 & Quivers and relations of group algebras of finite groups (Lux) \\
+11:45 & Introduction to QPA 2 (Skarts\ae terhagen/Solberg)\\
+13:00 & Lunch \\
+15:00 & Exercise and discussion session
+
+%
+%
+\\
+%
+%
+\newday{Wednesday, September 16}
+09:15 & Introduction to GAP 4 (Horn)\\
+10:30 & Introduction to QPA 3 (Skarts\ae terhagen/Solberg)\\
+11:45 & Introduction to homalg/CAP 2 (Barakat/Gutsche/Posur)\\
+13:00 & Lunch \\
+14:00 & Exercise and discussion session \\
+15:30 & Approximate time for an excursion to
+\href{http://www.elgsethytta.com/public.aspx?pageid=88995}{Elgsethytta}
+\end{tabular}
+
+%\newpage
+
+\begin{tabular}{rp{14.5cm}}
+%
+%
+\newday{Thursday, September 17}
+09:15 & Introduction to HPC-GAP 1 (Pfeiffer)\\
+10:30 & Introduction to QPA 4 (Skarts\ae terhagen/Solberg)\\
+11:45 & Introduction to homalg/CAP 3 (Barakat/Gutsche/Posur)\\
+13:00 & Lunch \\
+15:00 & Exercise and discussion session
+
+%
+%
+\\
+%
+%
+\newday{Friday, September 18}
+09:15 & Introduction to HPC-GAP 2 (Pfeiffer)\\
+10:30 & Introduction to homalg/CAP 4 (Barakat/Gutsche/Posur)\\
+11:30 & Lunch (room 1329) \\
+12:15 & ``Mathematical pearls'' seminar with cake (room 1329) \\
+      & \url{http://www.math.ntnu.no/seminarer/perler/} \\
+13:15 & TBA\\
+15:00 & Exercise and discussion session \\
+18:00 & End of school
+
+\end{tabular}
+
+\vfill
+
+\begin{center}
+  \url{http://gapdays.de/gapdays2015-fall}
+\end{center}
+
+
+\pagebreak
+
+
+% \Abstract{NAME}{AFFILIATION}{TITLE}
+%\newenvironment{Abstract}[3]{\noindent\textbf{#1} (#2) \\ \noindent \textit{#3} \\ \noindent  \par{} \noindent}{\bigskip}
+\newenvironment{Abstract}[3]{\begin{itemize}[itemsep=0mm,label={}]
+  \item \textbf{#1} (#2)
+  \item ``\textit{#3}''
+  \item}{\end{itemize}\medskip}
+
+
+%\begin{center}
+%{\noindent\huge\textbf{Abstracts of talks and sessions}} \\[1em]
+%\end{center}
+
+
+%\begin{Abstract}{NAME}{AFFILIATION}{TITLE}
+%TEXT
+%\end{Abstract}
+
+
+\end{document}

@@ -1,0 +1,156 @@
+---
+layout: page
+title: Registration
+registration_open: yes
+form_api_token: TODO: needs to be updated
+---
+
+{% if page.registration_open %}
+<p class="message">
+  Registration is open.
+</p>
+{% else %}
+<p class="message">
+  Registration is closed.
+</p>
+{% endif %}
+
+{% if page.registration_open %}
+<p>
+You can use this form to register for the GAP Days.
+</p>
+
+<p>
+If you any questions
+regarding registration or the school + coding sprint, feel free to
+<a href="mailto:oyvind.solberg@math.ntnu.no">contact us via email</a>.
+</p>
+<form action="http://getsimpleform.com/messages?form_api_token={{page.form_api_token}}" method="post">
+
+<div class="form-field">
+  <div class="form-field-title">
+    <label for="name">Name <span class="form-field-req">*</span></label>
+  </div>
+  <input type="text" size="60" maxlength="80" name="name" autofocus required />
+  <!-- autofocus with fallback for older browsers -->
+  <script>
+    if (!("autofocus" in document.createElement("input"))) {
+      document.getElementById("q").focus();
+    }
+  </script>
+</div>
+
+<div class="form-field">
+  <div class="form-field-title">
+    <label for="Gender">Gender <span class="form-field-req">*</span></label>
+  </div>
+  <input type="Gender" size="60" maxlength="80" name="Gender" required />
+</div>
+
+<div class="form-field">
+  <div class="form-field-title">
+    <label for="email">Email <span class="form-field-req">*</span></label>
+  </div>
+  <input type="email" size="60" maxlength="80" name="email" required />
+</div>
+
+<div class="form-field">
+  <div class="form-field-title">
+    <label for="affiliation">Affiliation</label>
+  </div>
+  <div class="form-field-description">
+    Please enter the name of your home university, institute etc., if any. 
+  </div>
+  <input type="text" size="60" maxlength="80" name="affiliation" />
+</div>
+
+<div class="form-field">
+  <div class="form-field-title">
+    <label for="arrival_date">Arrival date <span class="form-field-req">*</span></label> 
+  </div>
+  <div class="form-field-description">
+    Please select the day of arrival.
+  </div>
+  <select name="arrival.date" id="arrival_date" required>
+    <option value="Saturday 12th or before">Saturday 12th or before</option>
+    <option value="Sunday 13th" selected="selected">Sunday 13th</option>
+    <option value="Monday 14th">Monday 14th</option>
+    <option value="Tuesday 15th">Tuesday 15th</option>
+    <option value="Wednesday 16th">Wednesday 16th</option>
+    <option value="Thursday 17th">Thursday 17th</option>
+    <option value="Friday 18th">Friday 18th</option>
+  </select>
+</div>
+
+<div class="form-field">
+  <div class="form-field-title">
+    <label for="departure_date">Departure date <span class="form-field-req">*</span></label> 
+  </div>
+  <div class="form-field-description">
+    Please select the last day you will attend the school + coding sprint.
+  </div>
+  <select name="departure.date" id="departure_date" required>
+    <option value="Monday 14th">Monday 14th</option>
+    <option value="Tuesday 15th">Tuesday 15th</option>
+    <option value="Wednesday 16th">Wednesday 16th</option>
+    <option value="Thursday 17th">Thursday 17th</option>
+    <option value="Friday 18th" selected="selected">Friday 18th</option>
+    <option value="Saturday 19th">Saturday 19th</option>
+    <option value="Sunday 20th">Sunday 20th</option>
+    <option value="Monday 21st">Monday 21st</option>
+    <option value="Tuesday 22nd">Tuesday 22nd</option>
+    <option value="Wednesday 23rd">Wednesday 23rd</option>
+    <option value="Thursday 24th or later">Thursday 24th or later</option>
+  </select>
+</div>
+
+<div class="form-field">
+  <div class="form-field-title">
+    <label for="funding">Accommodation/Funding?</label>
+  </div>
+  <div class="form-field-description">
+    <strong>Accommodation:</strong> We have reserved rooms in <a
+    href="http://www.scandichotels.com/Hotels/Norway/Trondheim/Bakklandet/">Scandic
+    Bakklandet</a>
+    at special university rates (single room 990 NOK per night, double room
+    595 NOK per person per night), and we expect as a default option that participants
+    share double rooms.  So please indicate under 
+    <strong>Wishes</strong> if <strong>(i)</strong> you have any other
+    participant you would like to share a double room with, or 
+    <strong>(ii)</strong> you want us to find a roommate for you, or 
+    <strong>(iii)</strong> you want a single room, or
+    <strong>(iv)</strong> if you arrange your own accommodation.<br><br>
+
+    <strong>Funding:</strong>
+    We have some limited funding available to cover travel and hotel
+    expenses. We limit our support for the accommodation to the GAP
+    school September 13-19th. In addition, the maximum of support
+    towards accommodation is the rate for one person in a double
+    room. If you need support in order to attend the workshop, please
+    enter an estimate of your expected travel expenses in the input
+    box below and register <strong>before the 1st of August</strong>.  
+    </div>
+  <input type="text" size="60" maxlength="180" name="funding" />
+</div>
+
+<div class="form-field">
+  <div class="form-field-title">
+    <label for="presentation">Wishes?</label>
+  </div>
+  <div class="form-field-description">
+    Here you can enter <strong>(i)</strong> your requests for
+    acccommodation, <strong>(ii)</strong> further details concerning
+    support, <strong>(iii)</strong> any comments, questions or wishes
+    regarding the school.  
+  </div>
+  <textarea name="comments" rows="10" cols="60"></textarea>
+</div>
+
+<input type='hidden' name='redirect_to' value='{{ site.url }}{{ site.baseurl }}/thank-you' />
+
+<div class="form-field">
+  <input type="submit" value="Register!" />
+</div>
+
+</form>
+{% endif %}

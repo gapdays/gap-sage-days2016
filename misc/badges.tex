@@ -1,0 +1,77 @@
+%%%%
+%
+% ticket.sty example file for a pin for conferences
+%
+%%%%
+% use the corresponding paper size for your ticket definition
+\documentclass[a4paper,10pt]{letter}
+
+\usepackage[latin1]{inputenc}
+
+% load ticket.sty with the appropriate ticket definition
+\usepackage[zw32010,crossmark]{ticket}
+
+\unitlength=1mm
+
+%% adjust for your printer
+\hoffset=-14.3mm
+\voffset=-9.2mm
+
+\ticketNumbers{2}{5}
+
+\ticketSize{90}{54}     % in unitlength
+\ticketDistance{9.8}{0} %in unitlength
+
+
+
+% load misc stuff
+\usepackage{graphicx}
+
+% make your default ticket. \ticketdefault is somewhat like a background
+\renewcommand{\ticketdefault}{%
+%  \put(50,  3){\includegraphics[width=15mm]{ifmlogoc}}
+  \put( 5, 13){\line(1,0){80}}
+  \put( 7, 9){GAP Days 2014, August 25-29}
+%  \put( 7, 10){\scriptsize Animal annual meeting (AAM)}
+%  \put( 7,  7){\scriptsize In the gardens}
+%  \put( 7,  4){\scriptsize April 1, 2000}
+}
+
+% now what do you like to put in your ticket
+\newcommand{\confpin}[2]{\ticket{%
+    \put(45,36){\makebox[0mm]{\bfseries\huge #1}}
+    \put(45,28){\makebox[0mm]{\bfseries\large #2}}%
+}}
+
+
+%% the pins for the partipiciants ... ;-)
+%% you can generate this part from a database!
+\begin{document}
+\sffamily
+\confpin{Benjamin Assarf}{TU Berlin}
+\confpin{Mohamed Barakat}{KU Eichstätt-Ingolstadt}
+\confpin{Reimer Behrends}{TU Kaiserslautern}
+\confpin{Martin Bies}{ITP Heidelberg}
+\confpin{Thomas Breuer}{RWTH Aachen University}
+\confpin{Manuel Delgado}{University of Porto}
+\confpin{Pedro A. García-Sánchez}{Universidad de Granada}
+\confpin{Sebastian Gutsche}{TU Kaiserslautern}
+\confpin{Johannes Hahn}{FSU Jena}
+\confpin{Max Horn}{JLU Gießen}
+\confpin{Christopher Jefferson}{University of St Andrews}
+\confpin{Delaram Kahrobaei}{City University of New York}
+\confpin{Stefan Kohl}{}
+\confpin{Alexander Konovalov}{University of St Andrews}
+\confpin{Lukas Kühne}{TU Kaiserslautern}
+\confpin{Samuel Lelièvre}{Université Paris-Sud}
+\confpin{Steve Linton}{University of St Andrews}
+\confpin{Benjamin Lorenz}{TU Berlin}
+\confpin{Frank Lübeck}{RWTH Aachen University}
+\confpin{Hebert Pérez-Rosés}{University of Lleida}
+\confpin{Markus Pfeiffer}{University of St Andrews}
+\confpin{Sebastian Posur}{RWTH Aachen University}
+\confpin{Hans Schoenemann}{TU Kaiserslautern}
+\confpin{Christof Söger}{Universität Osnabrück}
+\confpin{Leonard Soicher}{Queen Mary University of London}
+\confpin{Vinay Wagh}{IIT Guwahati, India}
+\end{document}

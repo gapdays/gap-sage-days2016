@@ -1,0 +1,18 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'First Joint GAP-Sage Days'
+#tagline:          'A GAP school'
+description:      'Jan 18-22, 2016'
+location:         'University of St Andrews'
+url:              http://gapdays.de
+baseurl:          /gapdays2016-spring
+
+
+exclude: [ "program.aux", "program.log", "program.out", "program.tex", "misc" ]
+include: [ "program.pdf" ]
