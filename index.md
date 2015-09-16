@@ -43,7 +43,7 @@ can be found on [the location page]({{ site.baseurl }}/location).
 If you have questions or suggestions, please contact the organizers:
 
 * [Alexander Konovalov](mailto:alexander.konovalov@st-andrews.ac.uk)
-* Markus Pfeiffer
+* [Markus Pfeiffer](mailto:markus.pfeiffer@st-andrews.ac.uk)
 
 ## Sponsors
 
