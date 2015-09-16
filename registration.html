@@ -2,7 +2,8 @@
 layout: page
 title: Registration
 registration_open: yes
-form_api_token: TODO: needs to be updated
+form_api_token: 19135be0cf2b871b48e7edb637e568c3
+email: gap-sage-days2016@gapdays.de
 ---
 
 {% if page.registration_open %}
@@ -22,8 +23,8 @@ You can use this form to register for the GAP Days.
 
 <p>
 If you any questions
-regarding registration or the school + coding sprint, feel free to
-<a href="mailto:oyvind.solberg@math.ntnu.no">contact us via email</a>.
+regarding registration or the even in general, feel free to
+<a href="mailto:{{page.email}}">contact us via email</a>.
 </p>
 <form action="http://getsimpleform.com/messages?form_api_token={{page.form_api_token}}" method="post">
 
