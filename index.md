@@ -66,13 +66,6 @@ project
 
 ## Previous GAP Days
 
-<ol>
-  <li>
-    <strong></strong>
-    <a href="http://gapdays2014.coxeter.de/">First GAP Days</a>
-  </li>
-  <li>
-    <strong></strong>
-    <a href="/gapdays2015-spring/">Second GAP Days</a>
-  </li>
-</ol>
+1.  <a href="http://gapdays2014.coxeter.de/">First GAP Days</a>
+2.  <a href="/gapdays2015-spring/">Second GAP Days</a>
+3.  <a href="/gapdays2015-fall/">Third GAP Days</a>

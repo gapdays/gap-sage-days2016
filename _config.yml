@@ -11,7 +11,7 @@ title:            'First Joint GAP-Sage Days'
 description:      'Jan 18-22, 2016'
 location:         'University of St Andrews'
 url:              http://gapdays.de
-baseurl:          /gapdays2016-spring
+baseurl:          /gap-sage-days2016
 
 
 exclude: [ "program.aux", "program.log", "program.out", "program.tex", "misc" ]
