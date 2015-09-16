@@ -3,9 +3,11 @@ layout: page
 title: Program
 ---
 
-The first week of the 3rd GAP Days is a school on representation
-theory of algebras and homological algebra in GAP. The talks will
-provide
+The focus of this event will be on improving GAP-SageMath integration and interaction between our systems. 
+
+Further details will appear shortly.
+
+{% comment %}
 
 * a general introduction to programming in GAP, talks given by
 [Max Horn](http://www.quendi.de/math.php), 
@@ -46,8 +48,5 @@ to report your problem (please include OS version, compiler version, ...).
 * The third talk about homalg/CAP will be an interactive hands-on session.
 If you are interested in this, please download the latest version of the
 [CAP project](https://github.com/homalg-project/CAP_project).
-
-{% comment %}
-
 
 {% endcomment %}
