@@ -6,7 +6,7 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            'First Joint GAP-Sage Days'
+title:            'First Joint GAP-SageMath Days'
 #tagline:          'A GAP school'
 description:      'Jan 18-22, 2016'
 location:         'University of St Andrews'
