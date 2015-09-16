@@ -3,22 +3,11 @@ layout: default
 title: Home
 ---
 
-# Third [GAP](http://www.gap-system.org/) Days
+# First Joint [GAP](http://www.gap-system.org/)-[SageMath](http://www.sagemath.org/) Days
 ## {{ site.description }}<br> {{ site.location }}
 
-The first week of the 3rd GAP Days is a school on representation
-theory of algebras and homological algebra in GAP. The talks will
-provide a general introduction to programming in GAP and an
-introduction to parallel programming in GAP, and introductions to the
-GAP-packages [homalg/CAP](http://homalg.math.rwth-aachen.de/)
-(homological algebra and category theory in GAP) and
-[QPA](http://www.math.ntnu.no/~oyvinso/QPA/) (Quivers and Path
-Algebras).
-
-The school will be followed by a coding sprint to mutally integrate
-the GAP-packages homalg/CAP and QPA. It will end on Wednesday the 23rd at
-13:00.
-
+The focus of this event will be on improving GAP-SageMath integration 
+and interaction between our systems. 
 
 {% comment %}
 
@@ -43,9 +32,9 @@ would be happy to hear about any progress you made.
 
 If you would like to attend, please [register]({{ site.baseurl }}/registration). This helps us
 with planning the workshop. If you need financial support, please
-register before 1st of August.
+register before 1st of December.
 
-The workshop will take place at the NTNU Trondheim. Information about the
+The workshop will take place at the University of St Andrews. Information about the
 exact location and information about hotels
 can be found on [the location page]({{ site.baseurl }}/location).
 
@@ -53,16 +42,12 @@ can be found on [the location page]({{ site.baseurl }}/location).
 
 If you have questions or suggestions, please contact the organizers:
 
-* [Øyvind Solberg](mailto:oyvind.solberg@math.ntnu.no) (local organizer)
-* [Mohamed Barakat](mailto:mohamed.barakat@rwth-aachen.de)
-* [Max Horn](mailto:max.horn@math.uni-giessen.de)
-
+* [Alexander Konovalov](mailto:alexander.konovalov@st-andrews.ac.uk)
+* Markus Pfeiffer
 
 ## Sponsors
 
-This workshop is supported by the Research Council of Norway, the
-project
-[Clusters, combinatorics and computations in algebra](https://www.cristin.no/app/projects/show.jsf?id=452886).
+This workshop is supported by [CoDiMa](http://www.codima.ac.uk/) - Collaborative Computational Project (CCP) in the area of Computational Discrete Mathematics (EPSRC grant EP/M022641/1).
 
 ## Previous GAP Days
 
