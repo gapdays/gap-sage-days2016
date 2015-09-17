@@ -44,6 +44,7 @@ If you have questions or suggestions, please contact the organizers:
 
 * [Max Horn](mailto:max.horn@math.uni-giessen.de)
 * [Alexander Konovalov](mailto:alexander.konovalov@st-andrews.ac.uk) (local organizer)
+* Dmitrii Pasechnik
 * [Markus Pfeiffer](mailto:markus.pfeiffer@st-andrews.ac.uk) (local organizer)
 
 
