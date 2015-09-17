@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# First Joint [GAP](http://www.gap-system.org/)-[SageMath](http://www.sagemath.org/) Days
+# {{ site.title }}
 ## {{ site.description }}<br> {{ site.location }}
 
 The focus of this event will be on improving GAP-SageMath integration 

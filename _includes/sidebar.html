@@ -4,7 +4,7 @@
     <div class="sidebar-about">
       <h1>
         <a href="{{ site.baseurl }}/">
-          {{ site.title }}
+          {{ site.title | strip_html }}
         </a>
       </h1>
       <p class="lead">{{ site.description }}</p>

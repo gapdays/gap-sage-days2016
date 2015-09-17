@@ -6,10 +6,10 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            'First Joint GAP-SageMath Days'
+title:            'First Joint <a href="http://www.gap-system.org/">GAP</a>-<a href="http://www.sagemath.org/">SageMath</a> Days'
 #tagline:          'A GAP school'
 description:      'Jan 18-22, 2016'
-location:         'University of St Andrews'
+location:         '<a href="http://www.st-andrews.ac.uk/">University of St Andrews</a>'
 url:              http://gapdays.de
 baseurl:          /gap-sage-days2016
 

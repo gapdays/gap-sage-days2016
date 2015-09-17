@@ -3,8 +3,8 @@ layout: page
 title: Location
 ---
 
-The First Joint GAP-Sage Days will take place at the 
-[University of St Andrews](http://www.st-andrews.ac.uk/).
+The {{ site.title | strip_html }} will take place at the
+{{ site.location }}.
 
 <h3>Accommodation</h3>
 
