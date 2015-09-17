@@ -1,25 +1,23 @@
 ---
 layout: page
 title: Registration
-registration_open: yes
+registration_state: open
 form_api_token: 19135be0cf2b871b48e7edb637e568c3
 email: gap-sage-days2016@gapdays.de
 ---
 
-{% if page.registration_open %}
-<p class="message">
-  Registration is not yet open.
-</p>
-{% else %}
-<p class="message">
-  Registration is closed.
-</p>
-{% endif %}
+{% case page.registration_state %}
+{% when 'notyet' %}
+<p class="message">Registration is not yet possible.</p>
 
-{% if page.registration_open %}
+{% when 'closed' %}
+<p class="message">Registration is closed.</p>
+
+{% when 'open' %}
+<p class="message">Registration is open.</p>
+
 <p>
-This form is here for test purposes only. Later
-you can use this form to register for the GAP Days.
+You can use this form to register for the GAP Days.
 </p>
 
 <p>
@@ -141,4 +139,4 @@ regarding registration or the even in general, feel free to
 </div>
 
 </form>
-{% endif %}
+{% endcase %}
