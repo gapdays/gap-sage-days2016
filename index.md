@@ -42,8 +42,10 @@ can be found on [the location page]({{ site.baseurl }}/location).
 
 If you have questions or suggestions, please contact the organizers:
 
-* [Alexander Konovalov](mailto:alexander.konovalov@st-andrews.ac.uk)
-* [Markus Pfeiffer](mailto:markus.pfeiffer@st-andrews.ac.uk)
+* [Max Horn](mailto:max.horn@math.uni-giessen.de)
+* [Alexander Konovalov](mailto:alexander.konovalov@st-andrews.ac.uk) (local organizer)
+* [Markus Pfeiffer](mailto:markus.pfeiffer@st-andrews.ac.uk) (local organizer)
+
 
 ## Sponsors
 
