@@ -30,13 +30,11 @@ would be happy to hear about any progress you made.
 
 ## Registering and stay
 
-If you would like to attend, please [register]({{ site.baseurl }}/registration). This helps us
-with planning the workshop. If you need financial support, please
-register before 1st of December.
-
 The workshop will take place at the University of St Andrews. Information about the
 exact location and information about hotels
 can be found on [the location page]({{ site.baseurl }}/location).
+
+The registration for the workshop will be opened shortly.
 
 ## <a name="contact"></a> Contact
 
