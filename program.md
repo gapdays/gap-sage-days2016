@@ -4,8 +4,11 @@ title: Program
 ---
 
 The focus of this event will be on improving GAP-SageMath integration and interaction between our systems. Topics may include (but will not be limited to):
+
 * better support of libGAP by GAP developers and adaptation of libGAP to HPC-GAP
+
 * adding more GAP packages to the GAP distribution provided with Sage
+
 * discussions on future directions, etc. 
 
 If you have any suggestions for the program, please let the organisers know. 
