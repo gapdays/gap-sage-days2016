@@ -34,8 +34,6 @@ The workshop will take place at the University of St Andrews. Information about 
 exact location and information about hotels
 can be found on [the location page]({{ site.baseurl }}/location).
 
-The registration for the workshop will be opened shortly.
-
 ## <a name="contact"></a> Contact
 
 If you have questions or suggestions, please contact the organizers:
