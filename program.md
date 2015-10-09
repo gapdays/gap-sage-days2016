@@ -3,7 +3,7 @@ layout: page
 title: Program
 ---
 
-The focus of this event will be on improving GAP-SageMath integration and interaction between our systems. Topics may include (but will not be limited to):
+The focus of the GAP-Sage Math workshop will be on improving GAP-SageMath integration and interaction between our systems and between their developers. Topics may include (but will not be limited to):
 
 * better support of libGAP by GAP developers and adaptation of libGAP to HPC-GAP
 
@@ -13,7 +13,7 @@ The focus of this event will be on improving GAP-SageMath integration and intera
 
 If you have any suggestions for the program, please let the organisers know. 
 
-The workshop wll be preceded by a GAP coding sprint.
+The workshop wll be preceded by a GAP coding sprint. The focus of the GAP Coding Sprint will be on converging GAP and HPC-GAP development branches. If you have any suggestions for the coding sprint, please let the organisers know or [create an issue on GitHub](https://github.com/gap-system/gap/issues) using the label "gapdays2016". 
 
 {% comment %}
 
