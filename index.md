@@ -6,8 +6,13 @@ title: Home
 # {{ site.title }}
 ## {{ site.description }}<br> {{ site.location }}
 
-The focus of this event will be on improving GAP-SageMath integration 
-and interaction between our systems. 
+The focus of the GAP-SageMath workshop will be on improving GAP-SageMath integration 
+and interaction between our systems and their developers. 
+
+The workshop will be preceded by the GAP Coding Sprint 
+to work towards converging GAP and HPC-GAP development branches.
+
+More detailed information can be found on [the program page]({{ site.baseurl }}/program).
 
 {% comment %}
 
@@ -31,7 +36,7 @@ would be happy to hear about any progress you made.
 ## Registering and stay
 
 The workshop will take place at the University of St Andrews. Information about the
-exact location and information about hotels
+exact location and accommodation options
 can be found on [the location page]({{ site.baseurl }}/location).
 
 ## <a name="contact"></a> Contact
