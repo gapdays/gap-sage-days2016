@@ -51,7 +51,10 @@ If you have questions or suggestions, please contact the organizers:
 
 ## Sponsors
 
-This workshop is supported by [CoDiMa](http://www.codima.ac.uk/) - Collaborative Computational Project (CCP) in the area of Computational Discrete Mathematics (EPSRC grant EP/M022641/1).
+This workshop is supported by [CoDiMa](http://www.codima.ac.uk/) - Collaborative Computational Project (CCP) 
+in the area of Computational Discrete Mathematics (EPSRC grant EP/M022641/1) and 
+[OpenDreamkit](http://opendreamkit.org/) - Horizon 2020 European Research Infrastructure project (#676541) 
+"Open Digital Research Environment Toolkit for the Advancement of Mathematics".
 
 ## Previous GAP Days
 
