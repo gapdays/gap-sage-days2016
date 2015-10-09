@@ -10,15 +10,14 @@ title: Home
 
 [GAP](http://www.gap-system.org/) Days are meetings where developers and users
 with GAP programming experience are invited to influence the future
-development of GAP by initiating and contributing to discussions and coding
-sprints. To streamline each meeting the organizers will usually suggest a few
-main topics to work on during the week (see the links to previous GAP days below).
+development of GAP. To streamline each meeting the organizers usually suggest a few
+main topics to work on during the week (see e.g. the links to previous GAP days below).
 
 The meetings are also suitable for advertising recent developments in core GAP
 and packages via short talks. However, the focus of the meeting is on code
 development, with talks only playing a minor role.
 As enough GAP experts will be around for technical support, the
-meetings usually offer good opportunities for people to work on their own
+meetings offer good opportunities for people to work on their own
 packages. At the end of the week, we would be happy to hear about any progress you made.
 
 Sage Days are gatherings of people interested in [SageMath](http://www.sagemath.org/), 
@@ -28,7 +27,7 @@ the globe. You may find the list of previous Sage Days [here](http://wiki.sagema
 ## {{ site.title }}
 
 For the 1st Joint GAP-Sage Days, the focus of the workshop will be on improving GAP-SageMath integration 
-and interaction between our systems and their developers, and the focus of the
+and interaction between our systems and their developers. The focus of the
 GAP Coding Sprint will be on converging GAP and HPC-GAP development branches.
 
 More detailed information can be found on [the program page]({{ site.baseurl }}/program).
