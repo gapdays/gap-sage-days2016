@@ -6,11 +6,11 @@ title: Home
 # {{ site.title }}
 ## {{ site.description }}<br> {{ site.location }}
 
-**TRAVEL UPDATE:** The [Forth Road Bridge](https://www.forthroadbridge.org/) is currently closed 
+_**TRAVEL UPDATE:** The [Forth Road Bridge](https://www.forthroadbridge.org/) is currently closed 
 [at least until new year](http://www.bbc.co.uk/news/uk-scotland-35001277). 
 If you travel via Edinburgh, we recommend to take a train to Leuchars, but please
 allow extra time for your journey as trains are expected to be busier than usually.
-See [this ScotRail page](http://www.scotrail.co.uk/frb) for further updates. 
+See [this ScotRail page](http://www.scotrail.co.uk/frb) for further updates._
 
 ## GAP and Sage Days in general
 
@@ -35,6 +35,10 @@ the globe. You may find the list of previous Sage Days [here](http://wiki.sagema
 For the 1st Joint GAP-Sage Days, the focus of the workshop will be on improving GAP-SageMath integration 
 and interaction between our systems and their developers. The focus of the
 GAP Coding Sprint will be on converging GAP and HPC-GAP development branches.
+
+GAP Coding Sprint will start on Wednesday January 13th at 10am and will finish in the afternoon on Saturday January 16th.
+GAP-SageMath Days will start on Monday January 17th at 10am and will finish at 1pm on Friday January 22nd.
+There will be also a Workshop on Mathematical Databases organised by the Horizon 2020 [OpenDreamKit project](http://opendreamkit.org/) in St Andrews on January 25th-27th, 2016. We will post a link here as soon as we will have more information.
 
 More detailed information can be found on [the program page]({{ site.baseurl }}/program).
 
