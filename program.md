@@ -18,7 +18,7 @@ The workshop wll be preceded by a GAP coding sprint. The focus of the GAP Coding
 ## GAP Coding Sprint
 * Location: School of Computer Science, rooms 1.33A, 1.04
 * Start: Wednesday January 13th at 10am (coffee from 9.30am)
-* Finish: Saturday afternoon
+* Finish: Saturday January 16th (afternoon)
 
 For those who will stay for GAP-SageMath Days, there will be access to the building, as well as suggestions for exploring St Andrews and surrounding area.
 
