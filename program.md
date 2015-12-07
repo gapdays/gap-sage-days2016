@@ -28,6 +28,8 @@ For those who will stay for GAP-SageMath Days, there will be access to the build
 * Start: Monday January 17th at 10am (coffee since 9.30am)
 * Finish: 1pm on Friday January 22nd
 
+There will be also a Workshop on Mathematical Databases organised by the Horizon 2020 [OpenDreamKit project](http://opendreamkit.org/) in St Andrews on January 25th-27th, 2016. We will post a link here as soon as we will have more information.
+
 {% comment %}
 
 * a general introduction to programming in GAP, talks given by
