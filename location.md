@@ -4,7 +4,7 @@ title: Location
 ---
 
 The {{ site.title | strip_html }} will take place at the {{ site.location }}
-in the [School of Computer Science](http://www.cs.st-andrews.ac.uk/) (see its location [on OpenStreetMap map](http://www.openstreetmap.org/way/155223867#map=19/56.34030/-2.80871)). 
+in the [School of Computer Science](http://www.cs.st-andrews.ac.uk/) (see its location [on OpenStreetMap](http://www.openstreetmap.org/way/155223867#map=19/56.34030/-2.80871)). 
 
 For further travel information about getting to St Andrews by air, rail or road, see [Visiting St Andrews](http://www.st-andrews.ac.uk/about/visiting/) page.
 
