@@ -17,7 +17,7 @@ The workshop wll be preceded by a GAP coding sprint. The focus of the GAP Coding
 
 ## GAP Coding Sprint
 * Location: School of Computer Science, rooms 1.33A, 1.04
-* Start: Wednesday January 13th at 10am (coffee since 9.30am)
+* Start: Wednesday January 13th at 10am (coffee from 9.30am)
 * Finish: Saturday afternoon
 
 For those who will stay for GAP-SageMath Days, there will be access to the building, as well as suggestions for exploring St Andrews and surrounding area.
@@ -25,7 +25,7 @@ For those who will stay for GAP-SageMath Days, there will be access to the build
 
 ## GAP-SageMath Days
 * Location: School of Computer Science, room 1.33A
-* Start: Monday January 17th at 10am (coffee since 9.30am)
+* Start: Monday January 17th at 10am (coffee from 9.30am)
 * Finish: 1pm on Friday January 22nd
 
 There will be also a Workshop on Mathematical Databases organised by the Horizon 2020 [OpenDreamKit project](http://opendreamkit.org/) in St Andrews on January 25th-27th, 2016. We will post a link here as soon as we will have more information.
