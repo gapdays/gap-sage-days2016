@@ -36,9 +36,13 @@ For the 1st Joint GAP-Sage Days, the focus of the workshop will be on improving 
 and interaction between our systems and their developers. The focus of the
 GAP Coding Sprint will be on converging GAP and HPC-GAP development branches.
 
-GAP Coding Sprint will start on Wednesday January 13th at 10am and will finish in the afternoon on Saturday January 16th.
-GAP-SageMath Days will start on Monday January 17th at 10am and will finish at 1pm on Friday January 22nd.
-There will be also a Workshop on Mathematical Databases organised by the Horizon 2020 [OpenDreamKit project](http://opendreamkit.org/) in St Andrews on January 25th-27th, 2016. We will post a link here as soon as we will have more information.
+GAP Coding Sprint will start on Wednesday January 13th at 10am and will finish in the 
+afternoon on Saturday January 16th. GAP-SageMath Days will start on Monday January 17th 
+at 10am and will finish at 1pm on Friday January 22nd. 
+
+Note that there is also a [Workshop "Knowledge representation in mathematical software and databases"](http://opendreamkit.org/2015/12/08/WP6StAndrewsMeeting/)
+organised by the Horizon 2020 [OpenDreamKit project](http://opendreamkit.org/) 
+on January 25th-27th, 2016. It takes place in St Andrews as well, but requires separate registration.
 
 More detailed information can be found on [the program page]({{ site.baseurl }}/program).
 
