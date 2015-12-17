@@ -24,7 +24,7 @@ For those who will stay for GAP-SageMath Days, there will be access to the build
 
 
 ## GAP-SageMath Days
-* Location: School of Computer Science, room 1.33A
+* Location: School of Computer Science, rooms 1.33A (Monday-Thursday), 1.33B (Friday)
 * Start: Monday January 17th at 10am (coffee from 9.30am)
 * Finish: 1pm on Friday January 22nd
 
