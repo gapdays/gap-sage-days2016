@@ -32,6 +32,11 @@
       <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
       <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
       -->
+      <a class="sidebar-nav-item" href="{{ site.github.zip_url | replace: 'zipball', 'edit' }}/{% if page.source %}{{ page.source }}{% else %}{{ page.path }}{% endif %}">Edit this page</a>
+  </nav>
+  </div>
+</div>
+
     </nav>
 
 <!--
