@@ -6,6 +6,10 @@ title: Home
 # {{ site.title }}
 ## {{ site.description }}<br> {{ site.location }}
 
+_**TRAVEL UPDATE: (2015-12-23)** The [Forth Road Bridge](https://www.forthroadbridge.org/) has
+ reopened for traffic except Heavy Goods Vehicles today, and is expected to stay open. In particular
+ this means that bus services to St Andrews will run as normal again._
+
 _**TRAVEL UPDATE:** The [Forth Road Bridge](https://www.forthroadbridge.org/) is currently closed 
 [at least until new year](http://www.bbc.co.uk/news/uk-scotland-35001277). 
 If you travel via Edinburgh, we recommend to take a train to Leuchars, but please
