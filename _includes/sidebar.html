@@ -1,6 +1,5 @@
 <div class="sidebar">
   <div class="container">
-  <!-- <div class="container sidebar-sticky"> -->
     <div class="sidebar-about">
       <h1>
         <a href="{{ site.baseurl }}/">
@@ -27,16 +26,10 @@
         {% endif %}
       {% endfor %}
 
-      <!--
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
-      <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
-      -->
-      <a class="sidebar-nav-item" href="{{ site.github.zip_url | replace: 'zipball', 'edit' }}/{% if page.source %}{{ page.source }}{% else %}{{ page.path }}{% endif %}">Edit this page</a>
-    </nav>
+      <br>
+      <a class="sidebar-nav-item minor" href="http://gapdays.de/">Other GAP days</a>
+      <a class="sidebar-nav-item minor" href="{{ site.github.zip_url | replace: 'zipball', 'edit' }}/{% if page.source %}{{ page.source }}{% else %}{{ page.path }}{% endif %}">Edit this page</a>
 
-<!--
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
--->
+    </nav>
   </div>
 </div>
