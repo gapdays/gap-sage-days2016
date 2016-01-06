@@ -8,6 +8,10 @@ in the [School of Computer Science](http://www.cs.st-andrews.ac.uk/) (see its lo
 
 For further travel information about getting to St Andrews by air, rail or road, see [Visiting St Andrews](http://www.st-andrews.ac.uk/about/visiting/) page.
 
+_**TRAVEL UPDATE: (2015-12-23)** The [Forth Road Bridge](https://www.forthroadbridge.org/) has
+ reopened for traffic except Heavy Goods Vehicles today, and is expected to stay open. In particular
+ this means that bus services to St Andrews will run as normal again._
+ 
 UPDATE: The [Forth Road Bridge](https://www.forthroadbridge.org/) is currently closed 
 [at least until new year](http://www.bbc.co.uk/news/uk-scotland-35001277). 
 If you travel via Edinburgh, we recommend to take a train to Leuchars, but please
