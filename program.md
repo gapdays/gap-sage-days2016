@@ -16,7 +16,8 @@ If you have any suggestions for the program, please let the organisers know.
 The workshop wll be preceded by a GAP coding sprint. The focus of the GAP Coding Sprint will be on converging GAP and HPC-GAP development branches. If you have any suggestions for the coding sprint, please let the organisers know or [create an issue on GitHub](https://github.com/gap-system/gap/issues) using the label "gapdays2016". 
 
 ## GAP Coding Sprint
-* Location: School of Computer Science, rooms 1.33A, 1.04
+* Location: School of Computer Science
+* Rooms: Wednesday - 1.04 and 1.33A; Thursday and Friday - 1.04 and 1.33B 
 * Start: Wednesday January 13th at 10am (coffee from 9.30am)
 * Finish: Saturday January 16th (afternoon)
 
@@ -24,7 +25,8 @@ For those who will stay for GAP-SageMath Days, there will be access to the build
 
 
 ## GAP-SageMath Days
-* Location: School of Computer Science, rooms 1.33A (Monday-Thursday), 1.33B (Friday)
+* Location: School of Computer Science
+* Rooms: Monday - 1.04 and 1.33B; Tuesday, Wednesday, Thursday - 1.04 and 1.33A; Friday - 1.04 and 1.33B
 * Start: Monday January 17th at 10am (coffee from 9.30am)
 * Finish: 1pm on Friday January 22nd
 
