@@ -3,6 +3,8 @@ layout: page
 title: Program
 ---
 
+#### Please look at [the Wiki for details](https://github.com/gapdays/gap-sage-days2016/wiki).
+
 The focus of the GAP-Sage Math workshop will be on improving GAP-SageMath integration and interaction between our systems and between their developers. Topics may include (but will not be limited to):
 
 * better support of libGAP by GAP developers and adaptation of libGAP to HPC-GAP
