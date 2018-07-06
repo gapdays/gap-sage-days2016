@@ -6,7 +6,7 @@ title:            'First Joint <a href="http://www.gap-system.org/">GAP</a>-&#82
 #tagline:          'A GAP school'
 description:      'GAP Coding sprint: Jan 13-16, 2016<br> GAP-SageMath Workshop: Jan 18-22, 2016'
 location:         '<a href="http://www.st-andrews.ac.uk/">University of St Andrews</a>'
-url:              http://gapdays.de
+url:              https://www.gapdays.de
 baseurl:          /gap-sage-days2016
 
 

@@ -1,4 +1,4 @@
-This is the website for the [GAP days](http://gapdays.de/gap-sage-days2016).
+This is the website for the [GAP days](https://www.gapdays.de/gap-sage-days2016).
 
 It is based on [Jekyll](http://jekyllrb.com/), a static website generator,
 and the [hyde](https://github.com/poole/hyde/) template.
